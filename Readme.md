@@ -2,7 +2,7 @@
 
 This is a work in progress project that i have just started.
 
-EasyAsPi is an intelligent assistant combining multiple AI models and workflows for enhanced productivity. It leverages voice recognition, text processing, and various AI providers to create a seamless interaction experience.
+EasyAsPi is an intelligent assistant workflow combining multiple AI models and workflows for enhanced productivity. It leverages voice recognition, text processing, and various AI providers to create a seamless interaction experience.
 
 ## Files within Repository
 
