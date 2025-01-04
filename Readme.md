@@ -1,4 +1,4 @@
-# EasyAsPi AI Assistant
+# EasyAsPi A.I Assistants
 
 This is a work in progress project that i have just started.
 
